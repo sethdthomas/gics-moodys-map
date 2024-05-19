@@ -25,10 +25,10 @@ Moody's industries have a flat structure:
 
 #### **Source Documents:**
 
-|                                               |                                                                                                                            |
-|----------------------------------|:------:|
-| MSCI Global Industry Classification Standard® | [Link](file:///C:/Users/Seth/Downloads/MSCI_Global_Industry_Classification_Standard_(GICS%C2%AE)_Methodology_20240515.pdf) |
-| Moody's 35 Industry Categories                |            [Link](https://www.moodys.com/sites/products/ProductAttachments/MCO_35%20Industry%20Categories.pdf)             |
+|                                               |                                                                                                     |
+|-------------------------------------------------------|:---------------:|
+| MSCI Global Industry Classification Standard® |                     [Link](https://www.msci.com/index/methodology/latest/GICS)                      |
+| Moody's 35 Industry Categories                | [Link](https://www.moodys.com/sites/products/ProductAttachments/MCO_35%20Industry%20Categories.pdf) |
 
 #### **Disclaimer:**
 
